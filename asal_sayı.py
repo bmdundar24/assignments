@@ -1,4 +1,4 @@
-n = int(input("Lütfen bir sayı giriniz."))
+n = int(input("Lütfen bir sayı giriniz: "))
 list_1 = []
 list_2 = []
 for i in range(2,n-1):
