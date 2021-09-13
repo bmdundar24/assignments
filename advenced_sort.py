@@ -32,7 +32,7 @@ def harf(n):
       else:
         l[i]=[i]
   return list(l.values())
-print(harf([2,1,2,1,3,4,5]))
+print(harf([2,1,2,1,3,4,5,5]))
 
 def domain(domain):    
     import re
