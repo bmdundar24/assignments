@@ -36,7 +36,7 @@ print(fizzbuzz())
     fizz = list(filter(lambda x : x % 3 == 0 , list_total))
     for j in fizz:
         if j in list_total:
-            a = str(list_total).replace(str(j),"fizz")
+            a = str(list_total).replace(str(j),"fizz ")
         return a
 print(fizzbuzz())
 """
