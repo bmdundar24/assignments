@@ -5,4 +5,4 @@ for i in range(1,number):
     list1.append(i)
 for x in list1:
     sum = sum + len(str(x))
-print(f"0-{number} have {sum} digits")
+print(f"0-{number} have {sum} digits ")
