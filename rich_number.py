@@ -11,4 +11,4 @@ def rich_number(number):
         x += 1     
     return list1
 
-print(rich_number(100))
+print(rich_number(200))
