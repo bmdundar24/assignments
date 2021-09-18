@@ -8,4 +8,4 @@ for x in numbers :
 
 most_frequent.sort()
 
-print(f"The most frequent number is {numbers[most_frequent[len(most_frequent)-1]]} and it was {most_frequent[len(most_frequent)-1]} times repeated")
+print(f"The most frequent number is {numbers[most_frequent[len(most_frequent)-1]]} and it was {most_frequent[len(most_frequent)-1]} times repeated.")
