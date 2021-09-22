@@ -59,7 +59,7 @@
 #         if letter.isupper():
 #             result.append(word.index(letter))
 #     return result
-# print(index_of_caps("eDaBiT"))
+# print(index_of_caps("eDaBiT "))
 
 # Solution 2
 
