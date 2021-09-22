@@ -26,7 +26,7 @@
 # -------------------------------------------
 
 
-# https://edabit.com/challenge/6CGomPbu3dK536PH2
+# https://edabit.com/challenge/6CGomPbu3dK536PH2.
 
 # Solution 1
 
