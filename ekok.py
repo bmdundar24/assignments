@@ -20,7 +20,7 @@ def obeb(a,b):
 	for i in range(1,a+1) :
 		if a % i == 0 :
 			list_a.append(i)
-	for j in range(1,b +1) :
+	for j in range(1, b +1) :
 		if b % j == 0 :
 			list_b.append(j)
 	inter = set(list_a).intersection(set(list_b))
